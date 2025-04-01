@@ -1,0 +1,1 @@
+# MetodologiaMC14_Samaja
