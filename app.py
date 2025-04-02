@@ -638,7 +638,7 @@ def main():
     
     # Título ISO 5807
     st.markdown("""
-    <h3 style='text-align: center; color: black;'>Diagrama de flujo basado en la norma <strong>ISO 5807:1985</strong></h3>
+    <h3 style='text-align: center; color: black;'>Metodología de la investigación Científica <strong>ISO 5807:1985</strong></h3>
     """, unsafe_allow_html=True)
 
     # Ocultamos elementos de la interfaz de Streamlit
